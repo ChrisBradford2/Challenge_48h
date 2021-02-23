@@ -1,0 +1,8 @@
+[mar 23-02-2021 09:14:05] [Client : 109.201.137.44] [URI : /contact/] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : pie_save_registration] [Line : 3468] [File : /home/nicolas4/public_html/challenge48h/wp-content/plugins/pie-register/pie-register.php]
+
+[mar 23-02-2021 09:15:03] [Client : 91.160.10.226] [URI : /wp-admin/users.php?page=unverified-users] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : verifyUsers] [Line : 3920] [File : /home/nicolas4/public_html/challenge48h/wp-content/plugins/pie-register/pie-register.php]
+
+[mar 23-02-2021 09:28:53] [Client : 109.201.137.44] [URI : /contact/] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : pie_save_registration] [Line : 3468] [File : /home/nicolas4/public_html/challenge48h/wp-content/plugins/pie-register/pie-register.php]
+
+[mar 23-02-2021 09:33:10] [Client : 109.201.137.44] [URI : /wp-admin/users.php?page=unverified-users] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : verifyUsers] [Line : 3920] [File : /home/nicolas4/public_html/challenge48h/wp-content/plugins/pie-register/pie-register.php]
+
